@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGU.Epam", "SGU.Epam\SGU.Epam.csproj", "{9817A7E6-0284-4984-9E0E-5CA63366B2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sgu.Entities", "Sgu.Entities\Sgu.Entities.csproj", "{5AE951F8-A177-46E2-A7EC-567A9EB04B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9817A7E6-0284-4984-9E0E-5CA63366B2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9817A7E6-0284-4984-9E0E-5CA63366B2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9817A7E6-0284-4984-9E0E-5CA63366B2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9817A7E6-0284-4984-9E0E-5CA63366B2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE951F8-A177-46E2-A7EC-567A9EB04B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE951F8-A177-46E2-A7EC-567A9EB04B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE951F8-A177-46E2-A7EC-567A9EB04B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE951F8-A177-46E2-A7EC-567A9EB04B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A7279A-DC78-42CF-9133-7B8DE72E6907}
+	EndGlobalSection
+EndGlobal
